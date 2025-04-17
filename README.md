@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Isuru Srimal
-- 👀 I’m interested in Sofware Engineering
-- 🌱 I’m currently learning Java and node.js
-- 📫 How to reach me isuru.srimal258@gmail.com
+💻 Code.  
+🧠 Learn.  
+🌍 Build.
 
+📫 Ping me: [LinkedIn](https://www.linkedin.com/in/isuru-abeykoon-sri1996) | [Email](mailto:isuru.srimal258@gmail.com)
